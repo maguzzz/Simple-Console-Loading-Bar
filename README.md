@@ -1,3 +1,3 @@
 # Loading Bar
 
-<img src="https://github.com/maguzzz/Simple-Console-Loading-Bar/assets/65002100/38ab7d57-7d49-4341-8c80-00ca8f66da41" alt="SimpleLoadingBar" width="100%" />
+<img src="https://github.com/maguzzz/Simple-Console-Loading-Bar/assets/65002100/13092750-f19d-4289-8db8-d0bc117fe3b6" alt="SimpleLoadingBar" width="100%" />
